@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApp3</string>
+    <string name="ticketVault"></string>
+    <string name="Ticket">Enter Tickets</string>
+    <string name="btnCost">Enter Tickets</string>
+    <string-array name="txtGroup">
+        <item>One Ok Rock</item>
+        <item>Sabaton </item>
+        <item>Kenny Loggins</item>
+        <item>Rise Against</item>
+
+    </string-array>
+</resources>
